@@ -2,7 +2,7 @@ import Elevador
 
 
 # Objeto elevador com capacidade de 5 pessoas e para um predio com 20 andares
-elevador = ac04.Elevador(5, 20)
+elevador = Elevador(5, 20)
 
 
 def test_elevador1():
